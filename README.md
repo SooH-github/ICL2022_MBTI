@@ -188,10 +188,31 @@
 ```
 </details>
 <details>
-<summary>3. 9주차 진행 계획</summary><br>
+<summary>2. 9주차 진행 계획</summary><br>
     
 ```
 1. 전체 도서 목록 구축 및 라벨링 시작
 2. 프로그램 개발에 대한 회의 
+```
+</details>
+
+<h2>:nine: 9 ~ 12주차</h2>
+<details>
+<summary>1. 3,000 권에 대한 분류 진행</summary><br>
+    
+```
+- MBTI 유형별 선호 도서 & 추천 도서 3,000 권 분류 완료 (~ 4월 7일)
+```
+</details>
+<details>
+<summary>2. 최종 계획</summary><br>
+    
+```
+1. MBTI 유형별 도서 분류 모델 개발
+- 다양한 분류실험이 이루어질 계획
+- 챗GPT에 대한 활용도 고려
+
+2. 관련 UI 개발
+- 추후에 디벨롭 예정
 ```
 </details>
